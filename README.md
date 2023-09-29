@@ -1,5 +1,5 @@
 # About me
-- 👋 Hi, I’m @waldyr1978
+- 👋 Hi, I’m Prof_Waldyr
 - 👀 My contact e-mail is waldyr.netto@escola.pr.gov.br
 - 🌱 I want to learn new progran languages
 - 🌱 Recently I´m learning the Scratch and JavaScript Languages.
